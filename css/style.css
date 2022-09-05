@@ -1,0 +1,35 @@
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/94/Space_night_sky.jpg");
+}
+
+h1 {
+ color: lightgrey;
+}
+
+.bean {
+  background-color: yellow;
+  opacity: 1;
+  text-align: center;
+ }
+
+.center {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+ }
+
+h2 {
+ color: red;
+ }
+
+p {
+ font-size: 30px;
+}
+
+a {
+ font-size: 30px;
+ color: black;
+ }
+
+
