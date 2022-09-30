@@ -1,0 +1,55 @@
+body {
+
+}
+
+.imgcenter {
+     display: block;
+     margin-left:  auto;
+     margin-right: auto;
+     width: 35%;
+}
+
+.pfp {
+	padding-top: 50px;
+	border-radius: 30%;
+        
+
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Reem Kufi Ink', sans-serif;
+	color: white;
+        
+ }
+
+.firstbg {
+	background-image: url(https://t4.ftcdn.net/jpg/04/77/29/75/360_F_477297579_LBjzEJ9dRDZgDE3LM4D0svivMSCcGQ4O.jpg);
+	background-size: 4500px;
+
+}
+
+p {
+	font-size: 30px;
+	font-family: 'Reem Kufi Ink', sans-serif;
+        padding-left: 15px;
+        padding-right: 15px;
+}
+
+ul {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 30px;
+	padding-top: 30px;
+}
+
+.width {
+	width: 500px;
+}
+
+h2 {
+	font-size: 15px;
+	color: #B3B3B3;
+}
