@@ -4,4 +4,9 @@ div {
   padding: 50px;
   margin: 20px;
   box-sizing: border-box;
+  background-color: blue;
+}
+
+h2 {
+	background-color: red;
 }
