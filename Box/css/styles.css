@@ -1,6 +1,6 @@
-div {
+.box {
   width: 300px;
-  border: 15px solid green;
+  border: solid 15px red;
   padding: 50px;
   margin: 20px;
   box-sizing: border-box;
@@ -9,4 +9,15 @@ div {
 
 h2 {
 	background-color: red;
+	margin: -120px 0 0 -50px;
 }
+
+.boxs {
+  width: 300px;
+  border: solid 15px green;
+  padding: 50px;
+  margin: 20px;
+  box-sizing: border-box;
+}
+
+
